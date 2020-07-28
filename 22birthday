@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            .lonely {
+                position: absolute;
+                top: 333px;
+            }
+            body {
+                background-color: rgb(247 168 209);
+            }
+            #fuck {
+                background-color: rgb(252 6 209);
+            }
+            #sparkles {
+                position: relative;
+                width: 40%;
+                
+                
+            }
+            ul {
+                position: absolute;
+                top: 440px;
+                left: 0;
+                width: 100%;
+            }
+            #list {
+                background: rgb(0 0 0);
+                background: rgba(0 0 0.7);
+                
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited to my 22'nd birthday</h1>
+        <img src="https://i.gifer.com/98XD.gif"
+        <div><h2>It's gonna be really <span id="fuck">fucking</span> cool</h2>
+        <h6 class="lonely">i promise, please come im lonely</h6></div>
+        
+        <p><strong>There's gonna be:</strong></p>
+    
+        <div class="sparkles"><img src='https://media1.tenor.com/images/30a76cfa44880ef336a0e8f06849d664/tenor.gif?itemid=7255905' rel="sparkling gif" height="150px"><ul class="list"><span>
+            <strong><li>girls</li>
+            <li>dubstep</li>
+            <li>alcohol</li>
+                <li>no drugs 'coz my mum says no</li></strong>
+            </span></ul></div>
+        <h2>You should really come, you don't know what you're missing</h2>
+    <h6>please guys</h6>
+        
+    </body>
+</html>
